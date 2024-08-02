@@ -1,0 +1,97 @@
+Estilos gerais */
+body {
+   font-family: Arial, sans-serif;
+   line-height: 1.6;
+   margin: 0;
+   padding: 0;
+}
+
+
+
+
+.container {
+   width: 80%;
+   margin: auto;
+   overflow: hidden;
+}
+
+
+
+
+/* Estilos do cabeçalho */
+header {
+   background: #3a721a;
+   color: #fff;
+   padding-top: 1px;
+   min-height: 48px;
+   border-bottom: #3a721a 3px solid;
+}
+
+
+
+
+header a {
+   color: #fff;
+   text-decoration: none;
+   text-transform: uppercase;
+   font-size: 16px;
+}
+
+
+
+
+header ul /*
+   margin: 0;
+   padding: 0;
+   list-style: none;
+   overflow: hidden;
+   text-align: right;
+}
+
+
+
+
+header li {
+   display: inline;
+   padding: 0 100px 0 100px;
+}
+
+
+
+
+/* Estilos das seções */
+.section {
+   padding: 80px 0;
+   clear: both;
+}
+
+
+
+
+.section h2 {
+   font-size: 2.5em;
+   text-align: center;
+   margin-bottom: 30px;
+}
+
+
+
+
+.section p {
+   font-size: 1.2em;
+   text-align: center;
+}
+
+
+
+
+/* Estilos do rodapé */
+footer {
+   background: #3a721a;
+   color: #3a2424;
+   text-align: center;
+   padding: 10px;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
